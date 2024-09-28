@@ -1,0 +1,42 @@
+input{
+    width: 400px;
+    height: 20px;
+    color: aquamarine;
+    background-color: rgb(230, 230, 230);
+    padding: 10px;
+    margin: 50px;
+    border: solid green;
+    border-radius: 10px;
+    background: url(../../../ASSEST/IMAGES/paint2.jpeg);
+
+
+
+}
+button{
+    color: white;
+    background-color:rgb(138, 178, 218);
+    
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: -20px;
+    padding: 20px;
+}
+body{
+    background-color: rgb(228, 215, 250);
+}
+div{
+    background-color: rgb(135, 134, 127);
+    width: fit-content;
+    border: solid 10px;
+    border-radius: 10px;
+background: url(../../../ASSEST/IMAGES/background.avif);
+}
+button:hover{
+    background-color: brown;
+}
+img{
+    width: 100px;
+
+}
